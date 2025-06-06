@@ -1,7 +1,6 @@
 import logging
 import json
 import pytz
-import qrcode
 import base64
 import aiohttp
 import asyncio
